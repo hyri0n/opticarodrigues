@@ -1,0 +1,44 @@
+#myInputB {
+    background-image: url('img/searchicon1.png'); /* Add a search icon to input */
+    background-position: 10px 12px; /* Position the search icon */
+    background-color:whitesmoke;
+    background-repeat: no-repeat; /* Do not repeat the icon image */
+    width: 25%; /* Full-width */
+    border-radius: 50px;
+    font-size: 12px; /* Increase font-size */
+    padding: 12px 20px 12px 40px; /* Add some padding */
+    border: 1px solid #ddd; /* Add a grey border */
+    margin-bottom: 8px; /* Add some space below the input */
+    margin-top:8px;
+    margin-left:355px;
+  }
+
+#myInput {
+    background-image: url('img/searchicon1.png'); /* Add a search icon to input */
+    background-position: 10px 12px; /* Position the search icon */
+    background-color:whitesmoke;
+    background-repeat: no-repeat; /* Do not repeat the icon image */
+    width: 25%; /* Full-width */
+    border-radius: 50px;
+    font-size: 12px; /* Increase font-size */
+    padding: 12px 20px 12px 40px; /* Add some padding */
+    border: 1px solid #ddd; /* Add a grey border */
+    margin-bottom: 8px; /* Add some space below the input */
+    margin-top:8px;
+    margin-left:553px;
+  }
+
+#myInputC {
+    background-image: url('img/searchicon1.png'); /* Add a search icon to input */
+    background-position: 10px 12px; /* Position the search icon */
+    background-color:whitesmoke;
+    background-repeat: no-repeat; /* Do not repeat the icon image */
+    width: 25%; /* Full-width */
+    border-radius: 50px;
+    font-size: 12px; /* Increase font-size */
+    padding: 12px 20px 12px 40px; /* Add some padding */
+    border: 1px solid #ddd; /* Add a grey border */
+    margin-bottom: 8px; /* Add some space below the input */
+    margin-top:8px;
+    margin-left:400px;
+  }
