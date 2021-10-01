@@ -4,5 +4,3 @@ Primeiro: é necessário instalar e abrir o servidor MySQL e Apache;
 Segundo: cabe ao desenvoldor fazer todas as configurações necessárias na máquina do cliente;
 Terceiro: o sistema é sujeito a atualizações, algumas requisitadas e outras por preferencia do próprio desenolvedor
 Com todas as configurações feitas, o usuário poderá abrir esse sistema digitando no seu navegador "localhost/otica", sendo redirecionado á página inicial do sistema
-
-williambraga1606@gmail.com
